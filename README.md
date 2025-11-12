@@ -15,12 +15,15 @@ I plan on:
 Note that: This project is **still in progress** and the documentation is not yet complete
 
 
-## Manually sourced data
+### Manually sourced data
 
 - Data extracted and processed manually is stored in the Data/ folder
 - This data utilised a scrapy webscraper to extract content from Wikipedia under the url: https://en.wikipedia.org/wiki/Portal:Current_events/ from years 2004 to 2025 inclusive
 
-## Data Sourced from Arvix
+### Data Sourced from Arvix
 - Data extracted from "A Comprehensive Dataset for Human vs. AI Generated
-Text Detection" from Arvix  is stored within the arvix_data folder
+Text Detection" (Roy et al., 2025) from Arvix  is stored within the arvix_data folder
 
+## References
+
+Roy, R., Imanpour, N., Aziz, A., Bajpai, S., Singh, G., Biswas, S., Wanaskar, K., Patwa, P., Ghosh, S., Dixit, S., Pal, N., Rawte, V., Garimella, R., Jena, G., Sheth, A., Sharma, V., Reganti, A., Jain, V., Chadha, A. and Das, A. (2025). A Comprehensive Dataset for Human vs. AI Generated Text Detection. [online] Arxiv.org. Available at: https://arxiv.org/html/2510.22874v1.
