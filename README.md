@@ -5,7 +5,7 @@ The main dashboard script is named "app.py" and can be run in the CLI using:
 ```python3 app.py```
 
 
-## Objectives
+### Objectives
 
 I plan on: 
 - Creating an ML model based on arvix data (listed below) to classify human-written and A.I-generated news articles.
